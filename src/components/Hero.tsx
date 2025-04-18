@@ -35,7 +35,7 @@ export const Hero: React.FC = () => {
           </a>
 
           <a
-            href="mailto:ananya.more@example.com"
+            href="mailto:contact@ananya-ramani.in"
             aria-label="Send Email"
             className="p-2 rounded-full bg-gray-800/50 hover:bg-red-600 text-red-400 hover:text-white transition duration-300 ease-in-out transform hover:scale-110"
           >
